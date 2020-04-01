@@ -1,0 +1,25 @@
+{
+  "name": "@dealerproductions/tcp-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martynas3336/tcp-message.git"
+  },
+  "author": "dealer.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martynas3336/tcp-message/issues"
+  },
+  "homepage": "https://github.com/martynas3336/tcp-message#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "uuid": "^7.0.2"
+  }
+}
